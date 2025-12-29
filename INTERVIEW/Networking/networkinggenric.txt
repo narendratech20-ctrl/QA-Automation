@@ -9,21 +9,21 @@ VLAN/TRUNK PORT/ACCESS PORT:
 ============================
 VLAN: Virtual Lan: isolates broadcast domains 
 Trunk Port: Carries multiple VLAN 
-Access Port: Carries triffic for one VLAN 
+Access Port: Carries traffic for one VLAN
 
 Dynamic Routing Protocols:
 ==========================
-OSPF: Link-state protocol --> useds Dijkstra's algorithm 
+OSPF: Link-state protocol --> used Dijkstra's algorithm
 RIP: Distance-vector protocol: maxhop count 15 
 
 TCP 3-WAY HANDSHAKE:
 ====================
-SYN -> SYN-ACK -> ACK (Establishesh reliable connection)
+SYN -> SYN-ACK -> ACK (Establishes reliable connection)
 
 Working of OSPF Protocol:
 =========================
 1) OSPF (Open Shortest Path First) is link-state routing protocol.
-2) Each roter maintins a link-state database (LSDB)
+2) Each roter maintains a link-state database (LSDB)
 3) Routers exchange LSAS (Link state advertisements)
 4) Uses Dijkstra's algorithm to calculate the shortest path. 
 5) Supports areas to reduce routing overhead and uses cost as metric 
@@ -31,7 +31,7 @@ Working of OSPF Protocol:
 Working of RIP:
 ===============
 1) RIP (Routing information protocol) is a distance-vector protocol.
-2) Routers share their entiere routing table every 30 secnods.
+2) Routers share their entire routing table every 30 secnods.
 3) Uses hop count as the metric (max 15 seconds)
 4) Simple and easy to configure but not efficient for large networks.
 
@@ -40,7 +40,7 @@ Working of Spanning Tree Protocol (STP):
 1) Prevent loops in layer 2 networks.
 2) Elects a Root Bridge 
 3) Blocks redundant paths while keeping on active path. 
-4) Uses Bridge Protocol Data Units (BPDU) to communicate. 
+4) Uses Bridge Protocol Data Units (APDU) to communicate.
 5) Automatically reconfigures the topology if a path fails.
 
 About ICMP/HTTP/HTTPS:
@@ -53,11 +53,11 @@ About ICMP/HTTP/HTTPS:
 TCP/UDP:
 ========
 1) TCP: Reliable/connection-oriented (e.g, HTTP/FTP/email)
-2) UDP: Fast/connectionless/no guarantee of devlivery (e.g DNS/VoIP/Video streaming)
+2) UDP: Fast/connectionless/no guarantee of delivery (e.g DNS/VoIP/Video streaming)
 
 How does HTTPS work:
 ====================
-1) Uses TLS/SSL for evryption
+1) Uses TLS/SSL for encryption
 2) Performs a handshake/verifies certificate 
 3) Generates a session key to encrypt data.
 
@@ -73,10 +73,10 @@ Why we need OSPF/BGP:
 
 What/Why is VLAN:
 =================
-Virtual LAN: Logically spearates devices into different brodcast domain, 
+Virtual LAN: Logically separates devices into different broadcast domain,
              Even on the same switch. 
 
-            Enhaces security/recues broadcast traffic/improves network efficiency
+            Enhances security/recues broadcast traffic/improves network efficiency
             and segmentation.
 
 Can one VLAN send traffic to another:
@@ -91,7 +91,7 @@ How OSPF works:
 3) Build a topology map using Dijkstra's algorithm 
 4) Supports areas and assigns cost metric. 
 
-OSPF not forming but linksup- Reasons;
+OSPF not forming but linkup- Reasons;
 ======================================
 1) Mismatches hello/dead timers 
 2) Different areas 

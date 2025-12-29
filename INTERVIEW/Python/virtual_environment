@@ -1,0 +1,18 @@
+Virtual Environment:
+====================
+ > virtual environment is isolated python environment that allows
+   to manage dependencies for different projects separately.
+
+ > it helps to avoid conflicts between packages required by different project.
+
+ > it allows to maintain different versions of packages for different projects.
+
+ > it provides a clean environment for testing and development.
+
+ Creating a Virtual Environment:
+ -------------------------------
+ > using venv module (built-in):
+
+ python -m venv name_of_env
+  (python -m venv myenv)
+

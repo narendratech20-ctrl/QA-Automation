@@ -1,36 +1,9 @@
-"""
-Python General Questions
-"""
-
-1) what are the data types you have used in python:
-
-    Numeric Types: int, float, complex 
-    Sequence Types: list, tuple, range 
-    Text Type: str 
-    Set Types: set, frozenset 
-    Mapping Type: dict 
-    Boolean Type: bool 
-    Binary Types: bytes, bytearry, memoryview 
-    NoneType: None 
-
-    Example: 
-    --------
-
-    a = 10 
-    b = 3.14 
-    c = 'hello'
-    d = [1,23,4]
-    e = (1,2,4)
-    f = {'a': 1, 'b': 2', 'c': 3}
-    g = True 
-
-
 2) What is the doc string:
 
     a) A docstring is a special string that is used to document a 
-       Moduele, Function, class or Method in python.
+       Module, Function, class or Method in python.
     
-    b) it is enclosed within triple qotes ''' or """.
+    b) it is enclosed within triple quotes ''' or """.
 
     c) Can be accessed using the .__doc__ attribute. 
 
@@ -57,14 +30,14 @@ Python General Questions
 
 4) Any idea about decorators:
 
-    a) Decorator is a funtion that takes another function as input 
+    a) Decorator is a function that takes another function as input
        and extends its behavior without modifying.
     
     Example:
     --------
     def decorator_fun(func):
         def wrapper():
-            print("Before funtion call")
+            print("Before function call")
             func()
             print("Post function call")
         return wrapper 
@@ -74,7 +47,7 @@ Python General Questions
         print("Hello")
     
     @decorator_fun
-    def say_goodmorning():
+    def say_good morning():
         print("Hello Good morning")
 
 5) How doo you install a package in python:
@@ -88,7 +61,7 @@ Python General Questions
 6) Any idea about virtual environment:
 
     a) Virtual environment is an isolated python environment that allows 
-       you to install package separetly from the global environment 
+       you to install package separately from the global environment
     
     1. python -m ven myenv 
     2. source myenv/bin/activate
@@ -115,8 +88,8 @@ Python General Questions
 String Operations
 """
 
-1) Check if a string is a palindrom:
-    a) A palindrom is a string that reads the same backward as forward.
+1) Check if a string is a palindrome:
+    a) A palindrome is a string that reads the same backward as forward.
 
     def is_str_palindrome(s):
         return s == s[::-1]
@@ -157,7 +130,6 @@ String Operations
     is_subset(s1, s2)
 
 4) Slicing and Indexing example:
-
     example:
     --------
     s = "PythonProgramming" 
@@ -408,7 +380,7 @@ Variable Scoping
             print(x)
     
     * Global variables:
-        Global variable dfined outside all functions, accessible throught the program.
+        Global variable defined outside all functions, accessible through the program.
         x=100 
         def my_func()
             print(x) #accessing global variable inside function 
@@ -521,9 +493,9 @@ NXOS image file is: bootflash:///nxos.9.3.11.bin
 IPv4 Address Validation
 """
 Rules:
-    must contains 4 octets
+    must contain 4 octets
     each octet: 0-255 
-    no charecter/symbols allowed 
+    no character/symbols allowed
 
     import re
     def is_valid_ipv4(ip):
@@ -542,7 +514,7 @@ Rules:
     10.*.0.10: Invalid
 
 """
-He given two dictionaries in that dictionaries we have some different 
+He has given two dictionaries in that dictionaries we have some different
 keys and same keys here the task is to what are the different keys are 
 there in both dictionaries kept into one empty dictionary.
 """
@@ -554,11 +526,10 @@ for key in d1.keys() ^ d2.keys():
     result[key] = d1.get(key, d2.get(key))
 print(result)
 
-* swap two numbers without thrid vairable:
+* swap two numbers without third variable:
 
     a, b = 5, 10 
-    a = a + b 
-    b = a - b 
+    a = a + b = a - b
     a = a - b 
 
 * Combine different keys form 2 dictionaries:
