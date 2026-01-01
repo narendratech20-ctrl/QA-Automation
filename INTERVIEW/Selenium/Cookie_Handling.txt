@@ -1,0 +1,11 @@
+Manage Cookies:
+===============
+
+get_cookie(): Get all cookies.
+
+get_cookie(name): Get a specific cookie by name.
+
+add_cookie(cookie): Add a new cookie.
+
+delete_cookie(name): Delete a specific cookie by name.
+

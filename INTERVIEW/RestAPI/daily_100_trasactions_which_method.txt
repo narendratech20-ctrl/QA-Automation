@@ -1,0 +1,5 @@
+> Will perform a POST method.
+  - each transaction is a new record.
+  - post is used to create new records.
+  - it should not overwrite existing records.
+

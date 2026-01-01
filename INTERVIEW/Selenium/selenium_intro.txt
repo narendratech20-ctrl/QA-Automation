@@ -1,0 +1,13 @@
+> what is selenium:
+ 1. selenium is an open-source tool that used to automate web browsers.
+ 2. it helps us open websites, click buttons, fill forms and verify results automatically instead doing manual.
+ 3. selenium supports multiple programming languages like java, python, c#, ruby and javascript.
+
+> why selenium automation:
+ 1. save time
+ 2. reduce manual work
+ 3. reusable test scripts
+ 4. useful for regression testing
+ 5. works with multiple browsers (chrome, firefox, safari, edge)
+ 6. supports parallel test execution
+

@@ -1,0 +1,6 @@
+window_handles - Returns all window IDs opened by the WebDriver instance.
+
+current_window_handle - Returns the window ID of the current window.
+
+switch_to.window(window_id) - Switches the context to the specified window using its window ID.
+

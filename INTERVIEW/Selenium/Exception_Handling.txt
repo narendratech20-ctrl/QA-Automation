@@ -1,0 +1,12 @@
+
+Common Selenium Exceptions:
+===========================
+
+NoSuchElementException: Element not found in the DOM.
+
+TimeoutException: Wait time exceeded
+
+StaleElementReferenceException: Element is no longer attached to the DOM.
+
+ElementNotInteractableException: Element is present but not interactable.
+

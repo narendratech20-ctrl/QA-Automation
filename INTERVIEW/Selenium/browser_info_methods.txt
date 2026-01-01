@@ -1,0 +1,10 @@
+Browser Information Methods:
+============================
+
+> title - Returns the title of the current page.
+
+> current_url - Returns the URL of the current page.
+
+> page_source - Returns the HTML source code of the current page.
+
+> name - Returns the name of the browser.

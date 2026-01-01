@@ -1,0 +1,7 @@
+> An endpoint is a restapi URL
+  GET/users: Fetches a list of users
+  GET/users/{id}: Fetches a user by ID
+  POST/users: Creates a new user
+  PUT/users/{id}: Updates a user by ID
+  DELETE/users/{id}: Deletes a user by ID
+  

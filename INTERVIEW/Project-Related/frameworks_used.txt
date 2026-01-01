@@ -1,0 +1,7 @@
+> Frameworks help us build, test and automate applications easily.
+  Example:
+    - PyTest/PyATS - used for test automation
+    - Requests - used for REST API interactions
+    - Selenium/Playwright - used for web automation
+    - PyYAML/JSON - used for parsing configuration files
+

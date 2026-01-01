@@ -1,0 +1,9 @@
+Implicit Wait:
+==============
+1. implicitly_wait(seconds): waits globally for elements
+
+Explicit Wait:
+==============
+1. waits until specified condition is met or timeout occurs
+2. applicable on specific element not globally
+3. commonly used with WebDriverWait and ExpectedConditions

@@ -1,0 +1,60 @@
+WebDriver Control Methods:
+==========================
+> webdriver.Chrome()
+  open a new chrome browser
+
+> webdriver.Firefox()
+  open a new firefox browser
+
+> driver.get(url)
+  open the given website url in the browser
+
+> maximize_window()
+  maximize the browser window
+
+> minimize_window()
+  minimize the browser window
+
+> fullscreen_window()
+  set the browser window to fullscreen mode
+
+> refresh()
+  refresh the current page
+
+> back()
+  Go back to the previous page
+
+> forward()
+  Go forward to the next page
+
+> close()
+  close the current browser window
+
+> quit()
+  close all browser windows and end the WebDriver session
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

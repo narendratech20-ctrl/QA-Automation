@@ -1,0 +1,31 @@
+Main sections:
+==============
+ Common Setup
+ Testcases
+ Subsections
+ Cleanup
+
+Details:
+========
+1. Common Setup:
+   - This section is used to define any setup steps that need to be executed before the test cases run.
+   - It typically includes actions like initializing connections, setting up test environments, or loading configurations.
+
+2. Testcases:
+    - This section contains the actual test cases that will be executed.
+    - Each test case should have a clear objective and expected outcome.
+    - Test cases can include various types of tests such as functional tests, performance tests, or security tests.
+
+3. Subsections:
+    - Subsections can be used to further organize test cases into smaller, more manageable groups.
+    - This is useful for categorizing tests based on functionality, modules, or features being tested.
+
+4. Cleanup:
+    - This section is used to define any cleanup steps that need to be executed after the test
+        cases have run.
+    - It typically includes actions like closing connections, deleting test data, or resetting configurations to their original state.
+    - Cleanup ensures that the test environment is left in a clean state for future tests.
+    - Example cleanup actions:
+         - Closing database connections
+         - Deleting temporary files created during tests
+         - Resetting system settings changed during tests

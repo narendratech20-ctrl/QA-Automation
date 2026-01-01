@@ -1,0 +1,11 @@
+URI: Identifier of a resource, typically used in web addresses.
+URL: Location of a resource on the internet, a specific type of URI.
+
+# Every URI is a URL, but not every URL is a URI. (yes)
+
+URL tells where the resource is located on the internet.
+URI only identifies the resource without providing its location.
+URL is type of URI that includes location details.
+
+
+

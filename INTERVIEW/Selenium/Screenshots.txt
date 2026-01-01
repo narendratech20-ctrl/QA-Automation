@@ -1,0 +1,6 @@
+
+save_screenshot("screenshot1.png") - takes a full screenshot of the current screen and saves it as "screenshot1.png"
+
+get_screenshot("screenshot1.png") - saves screenshot1.png to file
+
+element.screenshot("element_screenshot.png") - takes a screenshot of a specific UI element and saves it as "element_screenshot.png"

@@ -1,0 +1,7 @@
+> After getting a response, we can check:
+  - status code (200, 201, 400, etc.),
+  - response body data (using response.text or response.json()),
+  - JSON format validation (using json.loads()),
+  - response time (response.elapsed),
+  - headers (response.headers) to ensure the API behaved as expected.
+  - Error messages in case of failures.

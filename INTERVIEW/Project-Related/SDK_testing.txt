@@ -1,0 +1,6 @@
+> SDK (Software Development Kit)
+ - A collection of libraries and tools to interact with an application easily.
+ - use ATT SDK api to interact with ATT services
+ - call SDK functions instead of making raw REST API calls
+ - validate responses, exceptions and data accuracy using SDK methods
+

@@ -1,0 +1,10 @@
+Frame Handling: (used to switch between frames)
+
+switch_to.frame(index) - Switches to the frame by index.
+
+switch_to.frame(name_or_id) - Switches to the frame by name or ID.
+
+switch_to.frame(webelement) - Switches to the frame using a WebElement.
+
+switch_to.default_content() - Switches back to the main document from any frame.
+

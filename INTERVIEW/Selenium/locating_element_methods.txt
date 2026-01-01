@@ -1,0 +1,26 @@
+Locating Element Methods:
+=========================
+> find_element(By.ID, 'value')
+  find element using ID
+
+> find_element(By.NAME, 'value')
+  find element using NAME
+
+> find_element(By.XPATH, 'value')
+  find element using XPATH
+
+> find_element(By.LINK_TEXT, 'value')
+  find element using LINK TEXT
+
+> find_element(By.PARTIAL_LINK_TEXT, 'value')
+  find element using PARTIAL LINK TEXT
+
+> find_element(By.TAG_NAME, 'value')
+  find element using TAG NAME
+
+> find_element(By.CLASS_NAME, 'value')
+  find element using CLASS NAME
+
+> find_element(By.CSS_SELECTOR, 'value')
+  find element using CSS SELECTOR
+

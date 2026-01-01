@@ -1,0 +1,9 @@
+> Headers carry metadata:
+
+Common Headers:
+ - Authorization (Bearer token, Basic Auth)
+ - Content-Type  (application/json, text/plain)
+ - Accept        (what response formats are acceptable)
+ - Tokens        (API keys, CSRF tokens)
+
+

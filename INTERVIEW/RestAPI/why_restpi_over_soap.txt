@@ -1,0 +1,4 @@
+> Simple and lightweight: REST APIs use standard HTTP methods (GET, POST, PUT, DELETE) and are typically easier to implement and consume compared to the more complex SOAP protocol.
+> Faster performance: REST APIs often have lower overhead than SOAP, leading to faster response times and better performance, especially for web and mobile applications.
+> Easy to use JSON format: REST APIs commonly use JSON for data exchange, which is lightweight and easy to parse, making it more efficient than the XML format used by SOAP.
+> Less bandwidth consumption: Due to the smaller payload sizes in REST (especially when using JSON), REST APIs generally consume less bandwidth compared to SOAP, which can be beneficial for mobile and low-bandwidth environments.

@@ -1,0 +1,20 @@
+Dropdown Handling:
+==================
+
+Select(element) - create dropdown object
+
+select_by_index(index) - select option by index
+
+select_by_value(value) - select option by value attribute
+
+select_by_visible_text(text) - select option by visible text
+
+deselect_all() - deselect all options (only for multi-select)
+
+deselect_by_index(index) - deselect option by index (only for multi-select)
+
+options - list of all options in the dropdown
+
+selected_option - currently selected option
+
+all_selected_options - list of all selected options (only for multi-select)

@@ -1,0 +1,6 @@
+> Recalculate and Deploy - Getting 500 error. is this correct ? (No)
+ - 500 means internal server error, indicating a problem on the server side. It is not a successful response.
+ - Correct response:
+   400 - bad request (client side issue, like missing payload/invalid parameters)
+   409 - conflict (resource already exists)
+   503 - service unavailable (server is temporarily unable to handle the request)

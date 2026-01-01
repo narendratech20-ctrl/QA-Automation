@@ -1,0 +1,20 @@
+Selenium Components:
+    1. WebDriver
+    2. Selenium Grid
+    3. Selenium IDE
+    4. Selenium RC (Remote Control)
+
+> WebDriver:
+ 1. Control the browsers
+
+> Selenium Grid:
+ 1. Distribute tests across multiple machines and browsers
+ 2. Parallel test execution
+
+> Selenium  IDE:
+  1. Record and playback tool for creating test scripts without programming knowledge.
+  2. Supports exporting recorded scripts to various programming languages.
+
+> Selenium RC (Remote Control):
+ 1. Allows writing automated web application UI tests in any programming language.
+ 2. Acts as a server that injects JavaScript code into browsers to control them.

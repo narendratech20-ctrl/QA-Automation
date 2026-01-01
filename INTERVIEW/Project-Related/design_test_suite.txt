@@ -1,0 +1,8 @@
+> A test suite is a collection of test cases:
+  Steps:
+  - Understand requirements
+  - Identify test scenarios
+  - Write test cases for positive and negative scenarios
+  - Group related test cases together
+  - Add setup, execution, and clean steps
+

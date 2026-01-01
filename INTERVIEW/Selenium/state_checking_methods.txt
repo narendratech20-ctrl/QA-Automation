@@ -1,0 +1,9 @@
+Used to verify element condition:
+=================================
+1. is_displayed(): check if the element is visible on the page.
+
+2. is_enabled(): check if the element is enabled and can be interacted with.
+
+3. is_selected(): check if the element (like a checkbox or radio button) is selected.
+
+4. is_present(): check if the element exists in the DOM.

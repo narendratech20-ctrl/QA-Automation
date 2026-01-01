@@ -1,0 +1,8 @@
+get(url): Navigates to the specified URL.
+
+back(): Navigates to the previous page in the browser history.
+
+forward(): Navigates to the next page in the browser history.
+
+refresh(): Reloads the current page.
+

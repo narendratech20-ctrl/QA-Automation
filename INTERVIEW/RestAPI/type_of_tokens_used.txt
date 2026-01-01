@@ -1,0 +1,5 @@
+Common Tokens:
+==============
+1. Bearer Token
+2. JWT (JSON Web Token)
+etc..

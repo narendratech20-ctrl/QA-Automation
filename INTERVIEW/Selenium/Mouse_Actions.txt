@@ -1,0 +1,16 @@
+Mouse Actions:
+==============
+ActionChains(driver) - create action object
+
+move_to_element(to_element)  - move the mouse to the middle of an element
+
+click() - click the left mouse button
+
+double_click() - double click the left mouse button
+
+context_click() - right click the mouse button
+
+drag_and_drop(source, target) - drag source element to target element
+
+perform() - perform all the actions stored in the action chain
+

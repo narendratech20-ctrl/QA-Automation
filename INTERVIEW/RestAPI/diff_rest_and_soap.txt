@@ -1,0 +1,12 @@
+> Diff between REST and SOAP:
+
+  Rest:
+   1. Lightweight and faster.
+   2. uses standard HTTP methods.
+   3. Data formats: JSON, XML, HTML, plain text.
+   4. Stateless communication (each request is independent)
+
+   Soap:
+    1. Heavy and slower due to XML.
+    2. Only XML data format.
+    3. Stateful (maintains session info between requests)

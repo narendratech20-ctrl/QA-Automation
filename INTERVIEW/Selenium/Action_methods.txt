@@ -1,0 +1,14 @@
+Action Methods:
+===============
+click(): click an element
+
+send_keys(text): send text to an input field
+
+clear(): clear the content of an input field
+
+submit(): submit a form
+
+text: gets visible text from element
+
+get_attribute(name): gets the value of an attribute
+

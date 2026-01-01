@@ -1,0 +1,13 @@
+Alert Handling Methods:
+=======================
+
+switch_to_alert - Switches to alert popup
+
+accept() - Accepts the alert popup
+
+dismiss() - Dismisses the alert popup
+
+send_keys() - Sends keys to the alert popup
+
+text - Retrieves the text from the alert popup
+

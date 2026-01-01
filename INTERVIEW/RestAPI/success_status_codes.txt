@@ -1,0 +1,10 @@
+
+> Basically success status codes tell us that the API request worked as expected.
+  Common success codes:
+  200 - OK: Request is successful and data is returned.
+  201 - Created: Resource is created successfully (mostly for POST requests).
+  202 - Accepted: Request is accepted and processing will happen later.
+  204 - No Content: Request is successful but no data to return (often for DELETE)
+
+
+

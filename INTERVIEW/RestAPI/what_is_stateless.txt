@@ -1,0 +1,6 @@
+Stateless:
+==========
+1. Stateless means: server does not store any client session data between requests.
+2. Each request from client must contain all necessary information for server to process it.
+3. Benefits: Scalability, simplicity, easier caching.
+4. Example: REST APIs are typically stateless.
