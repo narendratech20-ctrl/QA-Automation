@@ -1,0 +1,3 @@
+Restapi:
+> a way for applications to communicate over the internet using HTTP requests.
+
