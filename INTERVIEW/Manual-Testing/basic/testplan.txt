@@ -1,0 +1,3 @@
+> testplan is a document that explain how testing will be done
+  - which features will be tested
+  - timeline for testing

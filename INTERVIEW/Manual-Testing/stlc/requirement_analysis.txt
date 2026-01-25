@@ -1,0 +1,3 @@
+> Understanding what needs to be tested
+
+Example: Login should allow only valid users

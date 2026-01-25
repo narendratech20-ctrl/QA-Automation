@@ -1,0 +1,11 @@
+> Monkey testing is a random testing,
+> Perform random testing without rules
+> to check stability of the application.
+
+Example:
+    - randomly click buttons
+    - randomly enter data in forms
+    - randomly navigate through the application
+    - click random links
+    - randomly refresh pages
+    - randomly close and reopen the application

@@ -1,0 +1,5 @@
+Bug Priority: How bug quickly the bug must be fixed
+
+Example:
+ - Login issue (high priority) - Users cannot access their accounts, impacting all users.
+ - Alignment issue (low priority) - A minor misalignment in the footer that does not affect functionality.

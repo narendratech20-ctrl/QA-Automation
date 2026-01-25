@@ -1,0 +1,11 @@
+> Regression Testing:
+ - checking existing functionality after done the new code changes.
+ - to ensure that the new code changes have not affected the existing functionality of the application.
+ - it is done by re-running the previous test cases.
+ - it can be done manually or by using automation tools.
+
+Example:
+ - Suppose there is an e-commerce application with a feature to add items to the cart.
+ - A new feature is added to apply discount codes at checkout.
+ - After implementing the discount code feature, regression testing is performed to ensure that the
+   "add to cart" functionality still works as expected and that no new bugs have been introduced in the existing features.

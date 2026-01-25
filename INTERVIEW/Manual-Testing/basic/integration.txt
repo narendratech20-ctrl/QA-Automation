@@ -1,0 +1,6 @@
+Integration Testing:
+ - the process of testing all the modules combined to ensure they work as expected.
+ - focuses on the interactions between modules and data flow.
+
+Example:
+ - Integration suites in jenkins (combining different modules and run together)

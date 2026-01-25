@@ -1,0 +1,8 @@
+> smoke testing is like a basic testing to see whether if the build is stable
+> Need to make sure major functionalities are working fine
+
+Example:
+ - Login functionality
+ - Signup functionality
+ - Navigation between major pages
+ - Basic CRUD operations (Create, Read, Update, Delete)

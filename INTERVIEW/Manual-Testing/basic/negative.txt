@@ -1,0 +1,6 @@
+> test with invalid data
+- enter invalid username and password
+- click on the login button
+- verify that an error message is displayed indicating invalid credentials
+- check that the user remains on the login page
+- attempt to book a ticket without selecting any options

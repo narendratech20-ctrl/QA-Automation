@@ -1,0 +1,5 @@
+Bug Severity: How serious the bug:
+- Critical: Crashes, data loss, security issues
+- Major: Major functionality broken, workarounds available
+- Minor: Minor issues, UI glitches, typos
+- Trivial: Cosmetic issues, no impact on functionality

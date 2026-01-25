@@ -1,0 +1,7 @@
+Bug release:
+ - known bug release: when there are some known bugs in the release build but they are not critical to block the release
+
+Example:
+  - Releasing version 1.0.1 with known minor UI bugs that do not affect core functionality.
+  - The release notes for version 2.0.0 mention known performance issues that will be addressed in future updates.
+  - The development team decides to proceed with the release despite known non-critical bugs to meet the deadline.

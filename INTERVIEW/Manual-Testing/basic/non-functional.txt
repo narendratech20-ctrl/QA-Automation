@@ -1,0 +1,21 @@
+Non-Functional Testing:
+
+//  - Non-functional testing is a type of software testing that validates the non-functional
+//     aspects of a software application.
+//  - The purpose of non-functional testing is to ensure that the software application
+//     meets the specified non-functional requirements such as performance, usability,
+//     reliability, etc.
+//  - Non-functional testing mainly involves white box testing and is concerned about
+//     the source code of the application.
+//  - Non-functional testing can be performed either manually or using automated tools.
+//     - Types of Non-Functional Testing:
+//         1. Performance Testing
+//         2. Load Testing
+//         3. Stress Testing
+//         4. Scalability Testing
+//         5. Usability Testing
+//         6. Reliability Testing
+//         7. Security Testing
+//         8. Compatibility Testing
+//         9. Maintainability Testing
+//         10. Portability Testing

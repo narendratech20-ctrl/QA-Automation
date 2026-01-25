@@ -1,0 +1,18 @@
+Phases:
+ 1. requirement analysis
+ 2. test planning
+ 3. test case development
+ 4. test environment setup
+ 5. test execution
+ 6. test closere
+
+ Example:
+    1. Requirement Analysis: Understanding the requirements and identifying testable aspects.
+    2. Test Planning: Defining the scope, objectives, resources, schedule, and deliverables of testing.
+    3. Test Case Development: Creating detailed test cases and preparing test data.
+    4. Test Environment Setup: Setting up the hardware, software, and network configurations for testing.
+    5. Test Execution: Running the test cases and logging defects.
+    6. Test Closure: Analyzing test results, documenting lessons learned, and closing the testing process.
+
+
+ * Like steps to cook a dish

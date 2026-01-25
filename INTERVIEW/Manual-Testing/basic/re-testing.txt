@@ -1,0 +1,7 @@
+> re-testing means the process of testing the same bug after it is fixed to ensure that the defect
+  has been successfully removed and that the fix did not introduce any new issues.
+
+> Re-testing is performed by executing the same test cases that initially identified the defect.
+
+Example of Re-testing:
+1. A tester identifies a bug in a login feature where users cannot log in with valid credentials

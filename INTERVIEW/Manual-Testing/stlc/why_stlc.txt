@@ -1,0 +1,5 @@
+> It ensures testing is done in an organized and quick manner
+
+// Example:
+ - no testing activities missed
+ - clear understanding of testing scope and objectives

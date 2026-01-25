@@ -1,0 +1,9 @@
+Bug Leakage:
+ - Bug found by customers after the product is released to production.
+
+Example:
+  - A customer reports that the checkout process on an e-commerce website is not working.
+  - The bug was not identified during the testing phase before the release.
+  - The development team investigates and finds that a recent code change caused the issue.
+  - The bug is fixed and a patch is released to address the problem.
+  - The testing team reviews their test cases to ensure similar issues are caught in future releases.

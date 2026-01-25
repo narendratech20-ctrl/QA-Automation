@@ -1,0 +1,16 @@
+Functional Testing:
+ - function testing is a type of software testing that validates the software system
+    against the functional requirements/specifications.
+ - The purpose of functional testing is to test each function of the software application,
+    by providing appropriate input, verifying the output against the functional requirements.
+ - Functional testing mainly involves black box testing and is not concerned about the
+    source code of the application.
+ - Functional testing can be performed either manually or using automated tools.
+    - Types of Functional Testing:
+        1. Unit Testing
+        2. Integration Testing
+        3. System Testing
+        4. Sanity Testing
+        5. Smoke Testing
+        6. Regression Testing
+        7. User Acceptance Testing (UAT)

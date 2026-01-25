@@ -1,0 +1,13 @@
+Boundary Value Analysis (BVA):
+ - is a software testing technique that focuses on testing the boundaries between
+ - valid and invalid input values. The idea is that errors often occur at the edges of input ranges,
+ - so by testing these boundary values, we can identify potential defects in the software.
+
+Example:
+    - If an input field accepts values from 1 to 100, BVA would involve testing the following values:
+        - Valid Boundary Values: 1, 100
+        - Just Inside Boundary Values: 2, 99
+        - Just Outside Boundary Values: 0, 101
+        - Invalid Boundary Values: -1, 102
+    - By testing these boundary values, we can ensure that the software behaves correctly at the edges of the
+      input range and handles invalid inputs appropriately.

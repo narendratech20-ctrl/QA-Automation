@@ -1,0 +1,5 @@
+Black box testing:
+ - black box testing is a process of testing without knowing the internal code
+
+Example:
+ - tester is only tests UI, not source code

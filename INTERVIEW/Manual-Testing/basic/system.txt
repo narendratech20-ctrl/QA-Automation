@@ -1,0 +1,8 @@
+System Testing:
+ - the process of testing complete application
+
+Example:
+ - login
+ - order placement
+ - payment processing
+ - logout flow

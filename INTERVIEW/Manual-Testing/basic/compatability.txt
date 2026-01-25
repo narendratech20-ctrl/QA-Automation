@@ -1,0 +1,6 @@
+> Testing on different browsers, operating systems, and devices
+  to ensure compatibility and consistent.
+
+Example:
+ - Chrome, Firefox, Safari, Edge
+ - Windows, macOS, Linux

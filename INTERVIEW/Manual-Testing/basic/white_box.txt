@@ -1,0 +1,9 @@
+White box testing:
+ - testing with code knowledge
+
+Examples: (Developers perform these tests)
+ - Unit testing
+ - Integration testing
+ - Code coverage analysis
+ - Static code analysis
+ - Mutation testing

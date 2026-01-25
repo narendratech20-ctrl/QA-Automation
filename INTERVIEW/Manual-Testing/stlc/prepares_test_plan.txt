@@ -1,0 +1,9 @@
+> Test Lead or Test Manager
+
+Example:
+ - responsible for overall test planning and execution
+ - coordinates with stakeholders to define test objectives and scope
+ - allocates resources and assigns tasks to team members
+ - monitors progress and ensures adherence to timelines
+ - reviews and approves test plans, cases, and reports
+ - communicates test results and quality status to management and stakeholders

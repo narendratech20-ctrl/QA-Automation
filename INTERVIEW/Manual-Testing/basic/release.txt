@@ -1,0 +1,8 @@
+> release means build is ready for customer to use
+> release build is free from critical bugs and issues
+
+Example:
+ - Release build of version 1.0.0 is ready for deployment after passing all test cases and fixing critical bugs.
+ - App is uploading to the app store for release after final approval from the QA team.
+ - The release notes for version 2.1.0 include details about new features and bug
+    fixes.

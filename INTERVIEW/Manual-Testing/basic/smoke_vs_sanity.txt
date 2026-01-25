@@ -1,0 +1,9 @@
+smoke: whole application test basic check
+sanity: only checks specific functionality after changes
+
+// smoke testing is broader, sanity testing is narrower
+// smoke testing is done first, sanity testing is done after changes
+// smoke testing checks overall functionality, sanity testing checks specific functionality
+// smoke testing is usually automated, sanity testing is usually manual
+// smoke testing is done on a new build, sanity testing is done on an existing build
+// smoke testing is done to ensure stability, sanity testing is done to ensure correctness

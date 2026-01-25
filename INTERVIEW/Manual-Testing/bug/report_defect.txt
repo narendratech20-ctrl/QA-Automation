@@ -1,0 +1,12 @@
+Report Defect:
+Title: [Provide a concise title for the defect]
+Description: [Describe the defect in detail, including expected and actual results]
+Steps to Reproduce:
+1. [Step 1 to reproduce the defect]
+2. [Step 2 to reproduce the defect]
+3. [Step 3 to reproduce the defect]
+...
+Severity: [Indicate the severity level: Critical, Major, Minor, Trivial]
+Priority: [Indicate the priority level: High, Medium, Low]
+Environment: [Specify the test environment details, including hardware, software, network configurations]
+Attachments: [Include any relevant screenshots, logs, or files that support the defect report]

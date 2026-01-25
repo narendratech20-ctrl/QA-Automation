@@ -1,0 +1,7 @@
+1.Testers
+2.Test Leads
+3.Test Managers
+
+Example:
+ - Testers writes test cases,
+ - Lead plans testing

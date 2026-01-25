@@ -1,0 +1,11 @@
+> test scenario is a high-level idea that what to test
+> test case is a detailed step-by-step instruction to perform the testing
+
+  - test scenario example:
+    1. Login functionality
+    2. User registration
+    3. Password recovery
+    4. Shopping cart functionality
+    5. Checkout process
+    6. Search functionality
+    7. User profile update

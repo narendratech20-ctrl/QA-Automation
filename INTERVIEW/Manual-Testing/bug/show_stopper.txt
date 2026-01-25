@@ -1,0 +1,5 @@
+> Bug that blocks testing completely .
+
+Example:
+ - Application not launching
+ - Critical functionality not working at all

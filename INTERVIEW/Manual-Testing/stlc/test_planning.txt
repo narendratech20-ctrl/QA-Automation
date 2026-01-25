@@ -1,0 +1,10 @@
+> Deciding how testing will be done
+
+Example:
+  - which features will be tested
+  - timeline for testing
+  - resources needed
+  - test environment setup
+  - risk assessment
+  - entry and exit criteria
+  - deliverables

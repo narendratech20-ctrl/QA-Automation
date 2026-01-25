@@ -1,0 +1,10 @@
+
+> testcase is a step-by-step method to test features of an application.
+ - open the application
+ - navigate to the login page
+ - enter valid username and password
+ - click on the login button
+ - verify that the user is redirected to the dashboard page
+ - check whether able to book an ticket
+ - logout from the application
+ - close the application

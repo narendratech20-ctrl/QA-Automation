@@ -1,0 +1,6 @@
+> sanity testing is a quick testing of specific changes
+
+Example:
+ - only checking the login functionality after making changes to the authentication module
+ - verifying that a bug fix has resolved the issue without introducing new problems
+ - testing critical features of an application after a minor update or patch

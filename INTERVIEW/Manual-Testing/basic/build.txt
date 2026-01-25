@@ -1,0 +1,16 @@
+> build is a version of application given by developers to tester for testing purpose.
+> build contains new features, bug fixes or improvements.
+> build can be in different formats like .exe, .apk, .ipa, .zip etc depending on the platform.
+> tester receives the build from developers or build team.
+> tester verifies the build version and checks for any installation issues.
+> tester performs various types of testing like functional, regression, performance etc on the build.
+> tester logs any defects found during testing in a defect tracking tool.
+
+Example:
+ - Login feature completed and developer provides build version 1.0.1 to tester.
+ - Tester receives build 1.0.1 and verifies installation on different devices.
+ - Tester performs functional testing on login feature and finds a bug where incorrect password allows access.
+ - Tester logs the bug in defect tracking tool with steps to reproduce, severity and screenshots.
+ - Developer fixes the bug and provides new build version 1.0.2 to tester.
+ - Tester receives build 1.0.2 and retests the login feature to ensure the bug is fixed.
+ - Tester also performs regression testing to ensure no other features are affected by the fix.
